@@ -1,0 +1,10 @@
+[
+  "temperature_2m",
+  "relativehumidity_2m",
+  "dewpoint_2m",
+  "windspeed_10m",
+  "windspeed_100m",
+  "winddirection_10m",
+  "winddirection_100m",
+  "windgusts_10m"
+]

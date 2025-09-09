@@ -1,0 +1,15 @@
+[
+  "temperature_2m",
+  "relativehumidity_2m",
+  "dewpoint_2m",
+  "windspeed_10m",
+  "windspeed_100m",
+  "winddirection_10m",
+  "winddirection_100m",
+  "windgusts_10m",
+  "windspeed_10m_lag1",
+  "windspeed_10m_lag3",
+  "windspeed_10m_lag6",
+  "windspeed_10m_roll3",
+  "windspeed_10m_roll6"
+]
