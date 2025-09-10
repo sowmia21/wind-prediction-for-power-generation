@@ -7,9 +7,8 @@
   "winddirection_10m",
   "winddirection_100m",
   "windgusts_10m",
-  "windspeed_10m_lag1",
-  "windspeed_10m_lag3",
-  "windspeed_10m_lag6",
-  "windspeed_10m_roll3",
-  "windspeed_10m_roll6"
+  "Time_hour",
+  "Time_day",
+  "Time_month",
+  "Time_weekday"
 ]
